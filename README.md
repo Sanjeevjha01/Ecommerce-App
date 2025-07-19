@@ -26,11 +26,6 @@ A modern mobile application that delivers a seamless ecommerce experience. Built
 - **Custom Reusable Components**
 - **Native Base / Styled Components (if used)**
 
----
-
-## 📸 Screenshots
-
-> _Add screenshots of your app UI here_
 
 ---
 
